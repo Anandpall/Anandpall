@@ -7,19 +7,20 @@
 
   <p>
     <b>Where cryptic terminals meet data science, systems engineering & agentic vibecoding.</b><br />
-    Transforming raw ideas into high-performance desktop tools, machine learning pipelines, and Arch Linux rices.
+    1st Year CSE (Data Science) @ JSS University • Tinkering with computers since 2012 • Ricing Omarchy Linux
   </p>
 
   <p>
+    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/Country-India%20%F0%9F%87%AE%F0%9F%87%B3-c5ff4a?style=for-the-badge&logo=google-maps&logoColor=060606&labelColor=060606" alt="Country India" /></a>
+    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B05%3A30)-c5ff4a?style=for-the-badge&logo=timeanddate&logoColor=060606&labelColor=060606" alt="Timezone IST" /></a>
     <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/OS-Omarchy%20Linux-c5ff4a?style=for-the-badge&logo=arch-linux&logoColor=060606&labelColor=060606" alt="OS Omarchy Linux" /></a>
     <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/WM-Hyprland%20%2B%20Quickshell-c5ff4a?style=for-the-badge&logo=wayland&logoColor=060606&labelColor=060606" alt="WM Hyprland" /></a>
-    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/Host-JSS%20University-c5ff4a?style=for-the-badge&logo=google-classroom&logoColor=060606&labelColor=060606" alt="Host JSS University" /></a>
     <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/Status-100%25%20Vibecoding-c5ff4a?style=for-the-badge&logo=codefactor&logoColor=060606&labelColor=060606" alt="Status Vibecoding" /></a>
   </p>
 
   <p>
     <a href="https://github.com/Anandpall">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=C5FF4A&center=true&vCenter=true&width=600&lines=1st+Year+CSE+(Data+Science)+%40+JSS+University;Tinkering+with+computers+since+2012;Coding+since+9th+grade+(2022);Ricing+Omarchy+Linux+%26+Hyprland;High-velocity+agentic+vibecoding" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=C5FF4A&center=true&vCenter=true&width=620&lines=Anand+Pal+%7C+%40Anandpall+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;1st+Year+CSE+(Data+Science)+%40+JSS+University;Timezone%3A+IST+(UTC%2B05%3A30)+%E2%80%A2+Asia%2FKolkata;Tinkering+with+computers+since+2012;Coding+since+9th+grade+(2022);Ricing+Omarchy+Linux+%26+Hyprland;Creator+of+Lmen+for+Windows+(vibecoded)" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -33,7 +34,7 @@
   <a href="https://gitascii.com">
     <img
       alt="GitAscii Profile Deck"
-      src="https://gitascii.com/api/user/Anandpall?v=1"
+      src="https://gitascii.com/api/user/Anandpall?v=2"
       width="100%"
     />
   </a>
@@ -51,7 +52,7 @@ flowchart LR
     A["💡 Flow & Ideas<br/>(Late-Night Spark)"] -->|"Vibecoding"| B["⚡ Agentic Prototyping<br/>(Cursor / Neovim)"]
     B -->|"Compile & Build"| C["🛠️ Systems & Data Stack<br/>(.NET 8 / PyTorch / C++)"]
     C -->|"Deploy & Rice"| D["🖥️ Omarchy Linux<br/>(Hyprland + Quickshell)"]
-    D -->|"Ship to World"| E["🚀 Shipped Software<br/>(Lmen, Checkers & Tools)"]
+    D -->|"Ship to World"| E["🚀 Shipped Software<br/>(Lmen, Nitro-Checker & Tools)"]
 
     style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
     style B fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
@@ -69,14 +70,17 @@ flowchart LR
 |  anand@omarchy-box:~$ fastfetch --profile                                               |
 +-----------------------------------------------------------------------------------------+
 |         /\            USER        : Anand Pal (@Anandpall)                              |
-|        /  \           OS          : Omarchy Linux [Arch-based x86_64]                   |
-|       /\   \          HOST        : JSS University • CSE (Data Science, 1st Year)       |
-|      /      \         UPTIME      : 14 Years (Tinkering with PCs since 2012)             |
-|     /   ,,   \        CODING      : Since 2022 (Hooked in 9th Grade)                    |
-|    /   |  |  -\       WM / DE     : Hyprland + Quickshell [Custom Rice]                 |
-|   /_-''    ''-_\      SHELL       : zsh 5.9 [omarchy-rice]                              |
+|        /  \           COUNTRY     : India 🇮🇳                                            |
+|       /\   \          TIMEZONE    : IST (UTC+05:30) • Asia/Kolkata                      |
+|      /      \         HOST        : JSS University • CSE (Data Science, 1st Year)       |
+|     /   ,,   \        OS          : Omarchy Linux [Arch-based x86_64]                   |
+|    /   |  |  -\       UPTIME      : 14 Years (Tinkering with PCs since 2012)             |
+|   /_-''    ''-_\      CODING      : Since 2022 (Hooked in 9th Grade)                    |
+|                       WM / DE     : Hyprland + Quickshell [Custom Rice]                 |
+|                       SHELL       : zsh 5.9 [omarchy-rice]                              |
 |                       TERMINAL    : Kitty / WezTerm                                     |
 |                       EDITORS     : Cursor / Neovim / VS Code                           |
+|                       GITHUB      : github.com/Anandpall (Member since Jan 2024)        |
 |                       PHILOSOPHY  : "Do it with style, vibecode the rest."              |
 +-----------------------------------------------------------------------------------------+
 ```
@@ -86,8 +90,9 @@ flowchart LR
 ## 📜 `$ cat ~/.timeline.log`
 
 ```bash
-[2012] 🕹️  BOOTSTRAP       First touched computers as a kid. Fell in love with hardware & tweaks.
-[2022] ⚡  INIT_PROGRAM     Discovered programming in 9th grade. Hooked on logic & modern superpowers.
+[2012] 🕹️  BOOTSTRAP       First touched computers as a kid in India. Fell in love with PC hardware.
+[2022] ⚡  INIT_PROGRAM     Discovered programming in 9th grade. Wrote logic, automation & scripts.
+[2024] 🌐  GITHUB_JOIN     Joined GitHub (@Anandpall). Began publishing tools & utilities.
 [2026] 🎓  UNDERGRAD        1st Year CSE (Data Science) @ JSS University. ML, math models & flow.
 [NOW]  🚀  PRODUCTION       Vibecoding experimental desktop tools, ricing Linux, and shipping fast.
 ```
@@ -129,11 +134,11 @@ flowchart LR
 
 ## 🌟 `$ ls -la ~/projects/featured`
 
-| Repository | Category | Architecture & Overview | Stack | Status |
+| Repository | Primary Language | Description & Highlights | Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 🪟 [**lmen-for-windows**](https://github.com/Anandpall/lmen-for-windows) | Desktop / Audio | **Ambient screen-edge lighting & real-time synced lyrics companion**. Inspired by macOS Lumen, rebuilt for Windows with WASAPI audio loopback & FFT beat reactivity. 100% vibecoded weekend project. | `C#` `.NET 8` `WPF` `NAudio` `Win32` | `ACTIVE POLISH` |
-| 🛡️ [**Disocrd-Nitro-Checker**](https://github.com/Anandpall/Disocrd-Nitro-Checker) | Automation | High-speed multi-threaded validation and network automation utility with dynamic proxy rotation. | `Python` `Network` `Threading` | `STABLE` |
-| 🎨 [**omarchy-rice**](https://github.com/Anandpall) | Linux Desktop | Custom high-contrast Omarchy Linux configuration featuring Hyprland, Quickshell widgets, Kitty, and Waybar. | `Wayland` `QML` `CSS` `Zsh` | `DAILY DRIVER` |
+| 🪟 [**lmen-for-windows**](https://github.com/Anandpall/lmen-for-windows) | `C#` | **Ambient screen-edge lighting & real-time synced lyrics companion for Windows**. Inspired by macOS Lumen, rebuilt for Windows with WASAPI audio loopback & FFT beat reactivity. 100% vibecoded weekend project. | `C#` `.NET 8` `WPF` `NAudio` `Win32` | `ACTIVE POLISH` |
+| 🛡️ [**Disocrd-Nitro-Checker**](https://github.com/Anandpall/Disocrd-Nitro-Checker) | `Python` | High-speed multi-threaded validation and network automation utility for generating and checking Nitro gift codes with proxy rotation. | `Python` `Network` `Threading` | `STABLE` |
+| ⚡ [**Anandpall**](https://github.com/Anandpall/Anandpall) | `Markdown` | Personal GitHub profile README and dynamic telemetry deck engineered with GitAscii terminal aesthetics and telemetry widgets. | `GitAscii` `Mermaid` `SVG` `JSON` | `MAINTAINED` |
 
 ---
 
@@ -158,6 +163,6 @@ anand@omarchy-box:~$ echo "Stay curious. Keep building. Keep ricing."
 anand@omarchy-box:~$ exit 0
 ```
 
-<sub>Engineered with design obsession & terminal aesthetics by <a href="https://github.com/Anandpall"><b>@Anandpall</b></a> • Built with <a href="https://github.com/Igorcbraz/GitAscii"><b>GitAscii</b></a></sub>
+<sub>Engineered with design obsession & terminal aesthetics by <a href="https://github.com/Anandpall"><b>@Anandpall</b></a> • India 🇮🇳 • Built with <a href="https://github.com/Igorcbraz/GitAscii"><b>GitAscii</b></a></sub>
 
 </div>

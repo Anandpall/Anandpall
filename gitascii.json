@@ -52,20 +52,24 @@
       },
       "size": {
         "width": 800,
-        "height": 280
+        "height": 320
       },
       "config": {
-        "user": "anand",
-        "hostname": "omarchy-box",
-        "os": "Omarchy Linux [Arch-based x86_64]",
-        "host": "JSS University • CSE (Data Science, 1st Year)",
-        "uptime": "14 Years (Tinkering with PCs since 2012)",
-        "codingSince": "2022 (Hooked in 9th Grade)",
-        "wm": "Hyprland + Quickshell",
-        "shell": "zsh [omarchy-rice]",
-        "terminal": "Kitty / WezTerm",
-        "editor": "Cursor / Neovim / VS Code",
-        "philosophy": "Do it with style, vibecode the rest."
+        "customLocation": "India",
+        "customTimezone": "IST (UTC+05:30)",
+        "customUptime": "Tinkering since 2012",
+        "customLanguages": "C#, Python, C++, SQL, Bash",
+        "customStatus": "100% Vibecoding",
+        "customGithub": "github.com/Anandpall",
+        "customJoined": "Jan 2024",
+        "showLocation": true,
+        "showTimezone": true,
+        "showUptime": true,
+        "showLanguages": true,
+        "showJoined": true,
+        "showStatus": true,
+        "showContactSection": true,
+        "showStatsSection": true
       },
       "locked": false,
       "visible": true,
@@ -77,7 +81,7 @@
       "widgetId": "languages",
       "position": {
         "x": 0,
-        "y": 538
+        "y": 578
       },
       "size": {
         "width": 800,
@@ -96,7 +100,7 @@
       "widgetId": "stats",
       "position": {
         "x": 0,
-        "y": 694
+        "y": 734
       },
       "size": {
         "width": 800,
@@ -115,7 +119,7 @@
       "widgetId": "divider",
       "position": {
         "x": 0,
-        "y": 890
+        "y": 930
       },
       "size": {
         "width": 800,
@@ -132,14 +136,14 @@
       "widgetId": "footer",
       "position": {
         "x": 0,
-        "y": 924
+        "y": 964
       },
       "size": {
         "width": 800,
         "height": 48
       },
       "config": {
-        "text": "Engineered with design obsession & terminal aesthetics by @Anandpall"
+        "text": "Engineered with design obsession & terminal aesthetics by @Anandpall • India 🇮🇳"
       },
       "locked": false,
       "visible": true,
