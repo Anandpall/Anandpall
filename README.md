@@ -1,111 +1,152 @@
-<div align="center">
-
-<!-- Waybar Pill Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Omarchy%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland%20%2B%20Quickshell-00B4D8?style=for-the-badge&logo=wayland&logoColor=white" />
-  <img src="https://img.shields.io/badge/College-JSS%20University-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-100%25%20Vibecoding-10B981?style=for-the-badge&logoColor=white" />
-</p>
-
-# 🌌 Anand Pal (`@Anandpall`)
-### *Data Science Student • Linux Enthusiast • Agentic Vibecoder*
-
-<p align="center">
+﻿<div align="center">
   <a href="https://github.com/Anandpall">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=1st+Year+CSE+(Data+Science)+%40+JSS+University;Tinkering+with+computers+since+2012;Coding+since+9th+grade+(2022);Ricing+Omarchy+Linux+%26+Hyprland;100%25+Vibecoded+adventures" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/Igorcbraz/GitAscii/main/public/icon-512.png" width="90" height="90" alt="Terminal Icon" />
   </a>
-</p>
 
+  <h1>ANAND PAL</h1>
+
+  <p>
+    <b>Where cryptic terminals meet data science, systems engineering & agentic vibecoding.</b><br />
+    Transforming raw ideas into high-performance desktop tools, machine learning pipelines, and Arch Linux rices.
+  </p>
+
+  <p>
+    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/OS-Omarchy%20Linux-c5ff4a?style=for-the-badge&logo=arch-linux&logoColor=060606&labelColor=060606" alt="OS Omarchy Linux" /></a>
+    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/WM-Hyprland%20%2B%20Quickshell-c5ff4a?style=for-the-badge&logo=wayland&logoColor=060606&labelColor=060606" alt="WM Hyprland" /></a>
+    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/Host-JSS%20University-c5ff4a?style=for-the-badge&logo=google-classroom&logoColor=060606&labelColor=060606" alt="Host JSS University" /></a>
+    <a href="https://github.com/Anandpall"><img src="https://img.shields.io/badge/Status-100%25%20Vibecoding-c5ff4a?style=for-the-badge&logo=codefactor&logoColor=060606&labelColor=060606" alt="Status Vibecoding" /></a>
+  </p>
+
+  <p>
+    <a href="https://github.com/Anandpall">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=C5FF4A&center=true&vCenter=true&width=600&lines=1st+Year+CSE+(Data+Science)+%40+JSS+University;Tinkering+with+computers+since+2012;Coding+since+9th+grade+(2022);Ricing+Omarchy+Linux+%26+Hyprland;High-velocity+agentic+vibecoding" alt="Typing SVG" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🖥️ `$ fastfetch --profile`
+## ⚡ GitAscii Dynamic Telemetry Deck
+
+<!-- GitAscii Edge-Rendered Dynamic Profile SVG -->
+<div align="center">
+  <a href="https://gitascii.com">
+    <img
+      alt="GitAscii Profile Deck"
+      src="https://gitascii.com/api/user/Anandpall?v=1"
+      width="100%"
+    />
+  </a>
+  <p align="center">
+    <sub>Layout configured via <a href="./gitascii.json"><b><code>gitascii.json</code></b></a> • Powered by <a href="https://github.com/Igorcbraz/GitAscii"><b>GitAscii</b></a> edge compiler</sub>
+  </p>
+</div>
+
+---
+
+## 🔄 Pipeline & Flow Architecture
+
+```mermaid
+flowchart LR
+    A["💡 Flow & Ideas<br/>(Late-Night Spark)"] -->|"Vibecoding"| B["⚡ Agentic Prototyping<br/>(Cursor / Neovim)"]
+    B -->|"Compile & Build"| C["🛠️ Systems & Data Stack<br/>(.NET 8 / PyTorch / C++)"]
+    C -->|"Deploy & Rice"| D["🖥️ Omarchy Linux<br/>(Hyprland + Quickshell)"]
+    D -->|"Ship to World"| E["🚀 Shipped Software<br/>(Lmen, Checkers & Tools)"]
+
+    style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
+    style B fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
+    style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
+    style D fill:#1f1f1f,stroke:#c5ff4a,stroke-width:2px,color:#ffffff
+    style E fill:#060606,stroke:#c5ff4a,stroke-width:1px,color:#c5ff4a
+```
+
+---
+
+## 🖥️ `$ fastfetch --profile`
 
 ```text
-       /\            anand@omarchy-box
-      /  \           -----------------
-     /\   \          OS: Omarchy Linux [Arch-based x86_64]
-    /      \         Host: JSS University • CSE (Data Science, 1st Year)
-   /   ,,   \        Uptime: 14 Years (Tinkering with PCs since 2012)
-  /   |  |  -\       Coding Since: 2022 (Hooked in 9th Grade)
- /_-''    ''-_\      WM: Hyprland + Quickshell
-                     Shell: zsh [omarchy-rice]
-                     Terminal: Kitty / WezTerm
-                     Editor: Cursor / Neovim / VS Code
-                     Philosophy: "Do it with style, vibecode the rest."
++-----------------------------------------------------------------------------------------+
+|  anand@omarchy-box:~$ fastfetch --profile                                               |
++-----------------------------------------------------------------------------------------+
+|         /\            USER        : Anand Pal (@Anandpall)                              |
+|        /  \           OS          : Omarchy Linux [Arch-based x86_64]                   |
+|       /\   \          HOST        : JSS University • CSE (Data Science, 1st Year)       |
+|      /      \         UPTIME      : 14 Years (Tinkering with PCs since 2012)             |
+|     /   ,,   \        CODING      : Since 2022 (Hooked in 9th Grade)                    |
+|    /   |  |  -\       WM / DE     : Hyprland + Quickshell [Custom Rice]                 |
+|   /_-''    ''-_\      SHELL       : zsh 5.9 [omarchy-rice]                              |
+|                       TERMINAL    : Kitty / WezTerm                                     |
+|                       EDITORS     : Cursor / Neovim / VS Code                           |
+|                       PHILOSOPHY  : "Do it with style, vibecode the rest."              |
++-----------------------------------------------------------------------------------------+
 ```
 
 ---
 
-### 📜 `$ cat ~/.timeline.log`
+## 📜 `$ cat ~/.timeline.log`
 
 ```bash
-[2012] 🕹️  First touched computers as a kid
-           Fell in love with PC hardware, tinkering with OS tweaks, and exploring tech.
-
-[2022] ⚡  Discovered programming in 9th grade
-           Wrote my first scripts, dove into logic, and realized code is modern superpowers.
-
-[2026] 🎓  1st Year CSE (Data Science) @ JSS University
-           Exploring machine learning, mathematical modeling, and high-performance workflows.
-
-[NOW]  🚀  Vibecoding experimental desktop tools, ricing Linux, and building projects.
+[2012] 🕹️  BOOTSTRAP       First touched computers as a kid. Fell in love with hardware & tweaks.
+[2022] ⚡  INIT_PROGRAM     Discovered programming in 9th grade. Hooked on logic & modern superpowers.
+[2026] 🎓  UNDERGRAD        1st Year CSE (Data Science) @ JSS University. ML, math models & flow.
+[NOW]  🚀  PRODUCTION       Vibecoding experimental desktop tools, ricing Linux, and shipping fast.
 ```
 
 ---
 
-### 🛠️ `$ tree ~/skills/arsenal`
+## 🛠️ Technical Arsenal & Weaponry
 
-<div align="left">
+<p>
+  <b>Languages & Core Systems</b><br />
+  <img src="https://img.shields.io/badge/Python-3.12-060606?style=flat-square&logo=python&logoColor=c5ff4a" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-.NET%208-060606?style=flat-square&logo=dotnet&logoColor=c5ff4a" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-20-060606?style=flat-square&logo=c%2B%2B&logoColor=c5ff4a" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-Engine-060606?style=flat-square&logo=mysql&logoColor=c5ff4a" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-Shell-060606?style=flat-square&logo=gnu-bash&logoColor=c5ff4a" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-ESNext-060606?style=flat-square&logo=javascript&logoColor=c5ff4a" alt="JavaScript" />
+</p>
 
-#### 🔹 **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <b>Data Science & Machine Learning</b><br />
+  <img src="https://img.shields.io/badge/PyTorch-2.x-060606?style=flat-square&logo=pytorch&logoColor=c5ff4a" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-060606?style=flat-square&logo=scikit-learn&logoColor=c5ff4a" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-Data-060606?style=flat-square&logo=pandas&logoColor=c5ff4a" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Compute-060606?style=flat-square&logo=numpy&logoColor=c5ff4a" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-060606?style=flat-square&logo=jupyter&logoColor=c5ff4a" alt="Jupyter" />
+</p>
 
-#### 🔹 **Data Science & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-#### 🔹 **Environment & Workflow**
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00C7B7?style=flat-square&logo=wayland&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
----
-
-### 🌟 `$ ls -la ~/projects/featured`
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🪟 [**lmen-for-windows**](https://github.com/Anandpall/lmen-for-windows) | **Ambient screen-edge lighting & synced lyrics companion**. Inspired by macOS lmen, recreated for Windows. 100% vibecoded weekend project. | `C#` `.NET 8` `WPF` `NAudio` `Win32` |
-| 🛡️ [**Disocrd-Nitro-Checker**](https://github.com/Anandpall/Disocrd-Nitro-Checker) | Multi-threaded checker & automation utility with proxy rotation. | `Python` `Network` |
+<p>
+  <b>Rice, Environment & Workflow</b><br />
+  <img src="https://img.shields.io/badge/Arch_Linux-Rolling-060606?style=flat-square&logo=arch-linux&logoColor=c5ff4a" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-Wayland-060606?style=flat-square&logo=wayland&logoColor=c5ff4a" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Neovim-0.10+-060606?style=flat-square&logo=neovim&logoColor=c5ff4a" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Cursor_AI-IDE-060606?style=flat-square&logo=openai&logoColor=c5ff4a" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/VS_Code-Editor-060606?style=flat-square&logo=visual-studio-code&logoColor=c5ff4a" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-VCS-060606?style=flat-square&logo=git&logoColor=c5ff4a" alt="Git" />
+</p>
 
 ---
 
-### 📊 `$ gh stats --theme=omarchy-dark`
+## 🌟 `$ ls -la ~/projects/featured`
+
+| Repository | Category | Architecture & Overview | Stack | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 🪟 [**lmen-for-windows**](https://github.com/Anandpall/lmen-for-windows) | Desktop / Audio | **Ambient screen-edge lighting & real-time synced lyrics companion**. Inspired by macOS Lumen, rebuilt for Windows with WASAPI audio loopback & FFT beat reactivity. 100% vibecoded weekend project. | `C#` `.NET 8` `WPF` `NAudio` `Win32` | `ACTIVE POLISH` |
+| 🛡️ [**Disocrd-Nitro-Checker**](https://github.com/Anandpall/Disocrd-Nitro-Checker) | Automation | High-speed multi-threaded validation and network automation utility with dynamic proxy rotation. | `Python` `Network` `Threading` | `STABLE` |
+| 🎨 [**omarchy-rice**](https://github.com/Anandpall) | Linux Desktop | Custom high-contrast Omarchy Linux configuration featuring Hyprland, Quickshell widgets, Kitty, and Waybar. | `Wayland` `QML` `CSS` `Zsh` | `DAILY DRIVER` |
+
+---
+
+## 📊 `$ gh telemetry --theme=gitascii-dark`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anandpall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandpall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandpall&show_icons=true&theme=tokyonight&hide_border=false&bg_color=060606&title_color=c5ff4a&text_color=ffffff&icon_color=c5ff4a&border_color=252525" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandpall&layout=compact&theme=tokyonight&hide_border=false&bg_color=060606&title_color=c5ff4a&text_color=ffffff&border_color=252525" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandpall&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakNum=38BDF8" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandpall&theme=tokyonight&hide_border=false&background=060606&ring=c5ff4a&fire=c5ff4a&currStreakNum=c5ff4a&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=252525" alt="GitHub Streak" />
 </div>
 
 ---
@@ -117,6 +158,6 @@ anand@omarchy-box:~$ echo "Stay curious. Keep building. Keep ricing."
 anand@omarchy-box:~$ exit 0
 ```
 
-<sub>Built with ☕, Linux vibes, and late-night flow state.</sub>
+<sub>Engineered with design obsession & terminal aesthetics by <a href="https://github.com/Anandpall"><b>@Anandpall</b></a> • Built with <a href="https://github.com/Igorcbraz/GitAscii"><b>GitAscii</b></a></sub>
 
 </div>

@@ -1,0 +1,163 @@
+﻿{
+  "id": "terminal",
+  "name": "Neo-Terminal",
+  "description": "Terminal aesthetic inspired by GitAscii with high-contrast cyber lime, deep black, and telemetry widgets.",
+  "category": "Terminal",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "title": "ANAND PAL",
+        "subtitle": "Data Science • Linux Enthusiast • Agentic Vibecoder"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_header_0",
+      "name": "Header Widget"
+    },
+    {
+      "widgetId": "ascii-text",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "ANAND PAL",
+        "fontSize": 14
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_asciitext_1",
+      "name": "Ascii-text Widget"
+    },
+    {
+      "widgetId": "terminal-info",
+      "position": {
+        "x": 0,
+        "y": 242
+      },
+      "size": {
+        "width": 800,
+        "height": 280
+      },
+      "config": {
+        "user": "anand",
+        "hostname": "omarchy-box",
+        "os": "Omarchy Linux [Arch-based x86_64]",
+        "host": "JSS University • CSE (Data Science, 1st Year)",
+        "uptime": "14 Years (Tinkering with PCs since 2012)",
+        "codingSince": "2022 (Hooked in 9th Grade)",
+        "wm": "Hyprland + Quickshell",
+        "shell": "zsh [omarchy-rice]",
+        "terminal": "Kitty / WezTerm",
+        "editor": "Cursor / Neovim / VS Code",
+        "philosophy": "Do it with style, vibecode the rest."
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_terminfo_2",
+      "name": "Terminal-info Widget"
+    },
+    {
+      "widgetId": "languages",
+      "position": {
+        "x": 0,
+        "y": 538
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "layout": "compact"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_lang_3",
+      "name": "Languages Widget"
+    },
+    {
+      "widgetId": "stats",
+      "position": {
+        "x": 0,
+        "y": 694
+      },
+      "size": {
+        "width": 800,
+        "height": 180
+      },
+      "config": {
+        "showIcons": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_stats_4",
+      "name": "Stats Widget"
+    },
+    {
+      "widgetId": "divider",
+      "position": {
+        "x": 0,
+        "y": 890
+      },
+      "size": {
+        "width": 800,
+        "height": 24
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_divider_5",
+      "name": "Divider Widget"
+    },
+    {
+      "widgetId": "footer",
+      "position": {
+        "x": 0,
+        "y": 924
+      },
+      "size": {
+        "width": 800,
+        "height": 48
+      },
+      "config": {
+        "text": "Engineered with design obsession & terminal aesthetics by @Anandpall"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7,
+      "instanceId": "widget_footer_6",
+      "name": "Footer Widget"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e6edf3",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "terminal"
+  },
+  "templateId": "terminal"
+}
