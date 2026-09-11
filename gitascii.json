@@ -1,4 +1,5 @@
 {
+  "username": "Anandpall",
   "widgets": [
     {
       "widgetId": "header",
@@ -32,7 +33,14 @@
       },
       "config": {
         "customText": "ANAND PAL",
-        "fontSize": 14
+        "fontSize": 14,
+        "asciiLines": [
+          " ▄████▄  ██    ██  ▄████▄  ██    ██ ██████▄       ███████▄  ▄████▄  ██      ",
+          "██    ██ ███   ██ ██    ██ ███   ██ ██    ██      ██    ██ ██    ██ ██      ",
+          "████████ ██▀█  ██ ████████ ██▀█  ██ ██    ██      ███████▀ ████████ ██      ",
+          "██    ██ ██ ▀█ ██ ██    ██ ██ ▀█ ██ ██    ██      ██       ██    ██ ██      ",
+          "██    ██ ██   ███ ██    ██ ██   ███ ██████▀       ██       ██    ██ ████████"
+        ]
       },
       "locked": false,
       "visible": true,
@@ -159,5 +167,6 @@
     "themeMode": "dark",
     "templateStyle": "terminal"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
