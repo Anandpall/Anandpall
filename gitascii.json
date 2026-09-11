@@ -1,8 +1,4 @@
-﻿{
-  "id": "terminal",
-  "name": "Neo-Terminal",
-  "description": "Terminal aesthetic inspired by GitAscii with high-contrast cyber lime, deep black, and telemetry widgets.",
-  "category": "Terminal",
+{
   "widgets": [
     {
       "widgetId": "header",
