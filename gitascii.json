@@ -154,6 +154,26 @@
       "zIndex": 7,
       "instanceId": "widget_footer_6",
       "name": "Footer Widget"
+    },
+    {
+      "instanceId": "widget_1789148517441",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 1028
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
